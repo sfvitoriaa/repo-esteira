@@ -4,6 +4,6 @@
   "private": true,
   "scripts": {
     "lint": "echo 'Rodando o Linter... Nenhum erro encontrado.'",
-    "build": "mkdir -p build && echo '<h1>Projeto Esteira CI/CD - GitHub Pages</h1>' > build/index.html"
+    "build": "mkdir -p dist && echo '<h1>Projeto Esteira CI/CD - GitHub Pages</h1>' > dist/index.html"
   }
 }
